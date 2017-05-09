@@ -21,8 +21,8 @@
 5. 当前工作目录
 6. 切换（改变）目录
 7. 打印信息
-8. git  config  --global  user.name  "liushuo"
-9. git  config  --global  user.email  "1332494613@qq.com"
+8. git  config  --global  user.name  ""
+9. git  config  --global  user.email  ""
 10. \
 11. Crtl+C
 12. 命令行接口用于：
